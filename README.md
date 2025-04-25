@@ -10,8 +10,6 @@ With an MBA in Business Intelligence and a strong foundation in back-end develop
 🚀 **Currently seeking opportunities** to contribute to AI-powered and data-centric projects that push boundaries and drive real-world impact.
 
 > Let's connect and build something impactful together!
-
-
 ![Snake Game Dark](https://github.com/lcarcos/lcarcos/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
