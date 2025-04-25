@@ -4,22 +4,10 @@ I'm a **Music Technologist** and **Data Scientist** passionate about blending cr
 
 🌟 **Currently seeking opportunities** to contribute to AI-driven and data-centric projects.
 
-## 🔧 Skills
-- **Languages**: Python, SQL, JavaScript
-- **Back-End**: Flask, FastAPI, Django, RESTful APIs
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Big Data**: Apache Spark, Kafka, Hadoop
-- **Databases**: PostgreSQL, MongoDB, Cassandra
-- **Cloud**: AWS, Azure, GCP
-- **Tools**: Docker, Git, Jupyter, Power BI, Matplotlib, Seaborn
-- **Methodologies**: Agile, ETL, CI/CD
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcarcos/lcarcos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcarcos/lcarcos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lcarcos/lcarcos/output/pacman-contribution-graph.svg">
+</picture>
 
-## 📂 Featured Project
-### [Music is Data](https://github.com/lcarcos/music-is-data)
-A core project from my MBA in Business Intelligence, merging music technology and data science. It analyzes music datasets using machine learning and delivers insights via a back-end API.
-
-- **Technologies**: Python, Scikit-learn, Flask, MongoDB, Matplotlib
-- **Highlights**: Built ETL pipeline, trained ML models for genre classification, created visualizations
-- **Explore**: [GitHub Repository](https://github.com/lcarcos/music-is-data)
-
- 🎶💻
+###
