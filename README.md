@@ -4,10 +4,6 @@ I'm a **Music Technologist** and **Data Scientist** passionate about blending cr
 
 🌟 **Currently seeking opportunities** to contribute to AI-driven and data-centric projects.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcarcos/lcarcos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcarcos/lcarcos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lcarcos/lcarcos/output/pacman-contribution-graph.svg">
-</picture>
+![Snake Game Dark](https://github.com/lcarcos/lcarcos/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
