@@ -2,8 +2,6 @@
 
 Building Agentic AI Workflows for Growth, Automation & Analytics ✅
 
-Building Agentic AI Workflows for Growth, Automation & Analytics ✅
-
 I design and implement AI-powered systems and automation pipelines that drive measurable business growth. Experienced in performance marketing analytics, multi-market data integration, and rapid experimentation, I thrive at the intersection of strategy, technology, and execution.
 
 🔧 Tech & Growth stack: Python, FastAPI, REST APIs, Claude Code, Google Antigravity, n8n, GA4, Looker Studio, Vercel deployment, vector databases, agentic AI workflows
